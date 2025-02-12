@@ -1,1 +1,1 @@
-# CurrencyConverter
+This Currency Converter involves developing a software application that allows users to convert one currency to another using real-time exchange rates. The project includes a user-friendly interface where users can select the source and target currencies, input the amount, and get the converted value instantly. It leverages APIs for fetching live exchange rates to ensure accurate and up-to-date conversions. 
